@@ -1,0 +1,8 @@
+pandas 
+numpy 
+matplot 
+seaborn 
+sklearn 
+tk 
+pandas_profiling 
+scikit-learn
