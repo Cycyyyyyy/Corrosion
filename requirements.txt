@@ -6,3 +6,4 @@ sklearn
 tk 
 pandas_profiling 
 scikit-learn
+ipywidgets
